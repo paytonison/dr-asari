@@ -17,4 +17,4 @@ Overall, I think by balancing the model type, finding the correct reasoning comp
 
 And who doesn't love the prospect of a Nobel, huh?
 
-https://platform.openai.com/playground/p/NJ2DZ6PeVBgBYbOQBHkvGbxK?mode=chat
+https://platform.openai.com/playground/p/dWxUGCR813tpV12LH2DY8DW4?mode=chat
